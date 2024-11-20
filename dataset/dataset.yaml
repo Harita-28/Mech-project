@@ -1,0 +1,6 @@
+path: ./  # replace with the path to your dataset directory
+train: images/train
+val: images/val
+
+nc: 2  # Number of classes
+names: ["object", "defect"]
